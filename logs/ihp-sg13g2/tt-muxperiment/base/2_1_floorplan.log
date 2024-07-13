@@ -1,0 +1,128 @@
+OpenROAD v2.0-14511-gedb4e7e37 
+Features included (+) or not (-): +Charts +GPU +GUI +Python
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[INFO ODB-0227] LEF file: /OpenROAD-flow-scripts/flow/platforms/ihp-sg13g2/lef/sg13g2_tech.lef, created 19 layers, 300 vias
+[INFO ODB-0227] LEF file: /OpenROAD-flow-scripts/flow/platforms/ihp-sg13g2/lef/sg13g2_stdcell.lef, created 78 library cells
+[WARNING STA-0198] /work/results/ihp-sg13g2/tt-muxperiment/base/1_synth.v line 624386, module $_DLATCH_N_ not found. Creating black box for \mux_I.p09_I.tt_um_I.breakout.game_logic.next_velocity_x[0]$_DLATCH_N_ .
+[WARNING ORD-2013] instance mux_I.p09_I.tt_um_I.breakout.game_logic.next_velocity_x\[0\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p09_I.tt_um_I.breakout.game_logic.next_velocity_x\[1\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p09_I.tt_um_I.breakout.game_logic.next_velocity_x\[2\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p09_I.tt_um_I.breakout.game_logic.next_velocity_x\[3\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p09_I.tt_um_I.breakout.spi_ctrl.next_state\[0\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p09_I.tt_um_I.breakout.spi_ctrl.next_state\[1\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[0\].g_x\[0\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[0\].g_x\[0\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[0\].g_x\[2\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[0\].g_x\[2\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[0\].g_x\[4\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[0\].g_x\[4\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[0\].g_x\[6\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[0\].g_x\[6\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[1\].g_x\[1\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[1\].g_x\[1\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[1\].g_x\[3\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[1\].g_x\[3\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[1\].g_x\[5\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[1\].g_x\[5\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[1\].g_x\[7\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[1\].g_x\[7\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[2\].g_x\[0\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[2\].g_x\[0\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[2\].g_x\[2\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[2\].g_x\[2\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[2\].g_x\[4\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[2\].g_x\[4\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[2\].g_x\[6\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[2\].g_x\[6\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[3\].g_x\[1\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[3\].g_x\[1\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[3\].g_x\[3\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[3\].g_x\[3\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[3\].g_x\[5\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[3\].g_x\[5\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[3\].g_x\[7\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[3\].g_x\[7\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[4\].g_x\[0\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[4\].g_x\[0\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[4\].g_x\[2\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[4\].g_x\[2\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[4\].g_x\[4\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[4\].g_x\[4\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[4\].g_x\[6\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[4\].g_x\[6\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[5\].g_x\[1\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[5\].g_x\[1\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[5\].g_x\[3\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[5\].g_x\[3\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[5\].g_x\[5\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[5\].g_x\[5\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[5\].g_x\[7\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[5\].g_x\[7\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[6\].g_x\[0\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[6\].g_x\[0\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[6\].g_x\[2\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[6\].g_x\[2\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[6\].g_x\[4\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[6\].g_x\[4\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[6\].g_x\[6\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[6\].g_x\[6\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[7\].g_x\[1\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[7\].g_x\[1\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[7\].g_x\[3\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[7\].g_x\[3\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[7\].g_x\[5\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[7\].g_x\[5\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[7\].g_x\[7\].t.r_ghl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p12_I.tt_um_I.g.g_y\[7\].g_x\[7\].t.r_gnl$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_A.out\[0\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_A.out\[1\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_A.out\[2\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_A.out\[3\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_A.out\[4\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_A.out\[5\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_A.out\[6\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_A.out\[7\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_B.out\[0\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_B.out\[1\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_B.out\[2\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_B.out\[3\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_B.out\[4\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_B.out\[5\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_B.out\[6\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_B.out\[7\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_C.out\[0\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_C.out\[1\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_C.out\[2\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_C.out\[3\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_C.out\[4\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_C.out\[5\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_C.out\[6\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+[WARNING ORD-2013] instance mux_I.p15_I.tt_um_I.attenuation_C.out\[7\]$_DLATCH_N_ LEF master $_DLATCH_N_ not found.
+
+==========================================================================
+Floorplan check_setup
+--------------------------------------------------------------------------
+Warning: There are 200 unclocked register/latch pins.
+Warning: There are 203 unconstrained endpoints.
+number instances in verilog is 111988
+[WARNING IFP-0028] Core area lower left (1.000, 1.000) snapped to (1.440, 3.780).
+[INFO IFP-0001] Added 384 rows of 3030 site CoreSite.
+[INFO RSZ-0026] Removed 57714 buffers.
+Default units for flow
+ time 1ns
+ capacitance 1pF
+ resistance 1kohm
+ voltage 1v
+ current 1uA
+ power 1pW
+ distance 1um
+Report metrics stage 2, floorplan final...
+Warning: There are 200 unclocked register/latch pins.
+Warning: There are 203 unconstrained endpoints.
+
+==========================================================================
+floorplan final report_design_area
+--------------------------------------------------------------------------
+Design area 806720 u^2 38% utilization.
+Elapsed time: 0:16.14[h:]min:sec. CPU time: user 15.89 sys 0.22 (99%). Peak memory: 412984KB.

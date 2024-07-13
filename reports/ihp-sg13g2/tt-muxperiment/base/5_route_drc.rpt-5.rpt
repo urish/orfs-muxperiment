@@ -1,0 +1,126 @@
+  violation type: Metal Spacing
+    srcs: net:_019144_ net:mux_I.p07_I.tt_um_I.rgb_mixer.encoder2.old_a 
+    bbox = ( 1021.72, 1079.08 ) - ( 1021.82, 1079.09 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net4505 net:mux_I.p02_I.tt_um_I.simon1.seq_length\[4\] 
+    bbox = ( 956.24, 827.3 ) - ( 956.44, 827.5 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:net3905 net:_041312_ 
+    bbox = ( 1345.54, 1056.2 ) - ( 1345.73, 1056.4 ) on Layer Metal2
+  violation type: Short
+    srcs: net:_042111_ net:_042112_ 
+    bbox = ( 1319.19, 1071.32 ) - ( 1319.37, 1071.52 ) on Layer Metal2
+  violation type: Short
+    srcs: net:_042111_ net:_042112_ 
+    bbox = ( 1319.19, 1071.32 ) - ( 1319.39, 1071.52 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_042111_ net:_042112_ 
+    bbox = ( 1318.95, 1071.32 ) - ( 1319.13, 1071.52 ) on Layer Metal2
+  violation type: Short
+    srcs: net:_042111_ net:_042112_ 
+    bbox = ( 1319.13, 1071.35 ) - ( 1319.39, 1071.52 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:net4505 net:mux_I.p02_I.tt_um_I.simon1.seq_length\[3\] 
+    bbox = ( 957.025, 826.04 ) - ( 957.2, 826.065 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:net4505 net:mux_I.p02_I.tt_um_I.simon1.seq_length\[4\] 
+    bbox = ( 957.22, 826.88 ) - ( 957.275, 827.5 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net4505 net:mux_I.p02_I.tt_um_I.simon1.seq_length\[4\] 
+    bbox = ( 957.275, 826.88 ) - ( 957.475, 827.08 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net4505 net:mux_I.p02_I.tt_um_I.simon1.seq_length\[4\] 
+    bbox = ( 957.02, 827.3 ) - ( 957.22, 827.5 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net4505 net:mux_I.p02_I.tt_um_I.simon1.seq_length\[4\] 
+    bbox = ( 956.24, 827.3 ) - ( 957.22, 827.5 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_021978_ net:_021981_ 
+    bbox = ( 581.84, 912.76 ) - ( 581.86, 912.77 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_021978_ net:_021981_ 
+    bbox = ( 581.84, 912.76 ) - ( 581.905, 912.77 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:net3318 net:_040909_ 
+    bbox = ( 1303.3, 1075.52 ) - ( 1303.41, 1075.72 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_083797_ 
+    bbox = ( 427.835, 572.35 ) - ( 428.035, 572.36 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_083797_ net:_084633_ 
+    bbox = ( 427.54, 572.55 ) - ( 427.685, 572.57 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_083797_ net:_084633_ 
+    bbox = ( 427.55, 572.55 ) - ( 427.685, 572.57 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_083797_ 
+    bbox = ( 427.685, 572.35 ) - ( 428.035, 572.36 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_083797_ 
+    bbox = ( 427.775, 572.35 ) - ( 428.035, 572.36 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_084633_ net:_085824_ 
+    bbox = ( 427.3, 572.505 ) - ( 427.34, 572.57 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_084633_ net:_085824_ 
+    bbox = ( 427.26, 572.505 ) - ( 427.3, 572.57 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_084633_ net:_085824_ 
+    bbox = ( 427.06, 572.56 ) - ( 427.26, 572.57 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_084633_ 
+    bbox = ( 427.26, 572.77 ) - ( 427.54, 572.78 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_084633_ 
+    bbox = ( 425.745, 580.33 ) - ( 425.86, 580.34 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_084633_ 
+    bbox = ( 425.745, 580.33 ) - ( 425.96, 580.34 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net4046 net:net2546 
+    bbox = ( 1305.92, 540.86 ) - ( 1306.12, 541.06 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net4046 net:_039357_ 
+    bbox = ( 1306.94, 539.6 ) - ( 1307.14, 539.8 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net2909 net:_031816_ 
+    bbox = ( 851.525, 413.6 ) - ( 851.725, 413.785 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net2909 net:_031816_ 
+    bbox = ( 851.525, 413.6 ) - ( 851.62, 413.785 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net2909 net:_031816_ 
+    bbox = ( 851.42, 413.6 ) - ( 851.725, 413.785 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net2909 net:_031816_ 
+    bbox = ( 851.42, 413.6 ) - ( 851.62, 413.785 ) on Layer Metal2
+  violation type: Short
+    srcs: net:net2909 net:_031816_ 
+    bbox = ( 851.37, 413.6 ) - ( 851.725, 413.785 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:mux_I.p20_I.tt_um_I.clock_inst.vga_inst.vga_y\[0\] net:mux_I.p20_I.tt_um_I.clock_inst.vga_inst.vga_y\[2\] 
+    bbox = ( 1156.42, 833.625 ) - ( 1156.55, 833.675 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:mux_I.p20_I.tt_um_I.clock_inst.vga_inst.vga_y\[0\] net:mux_I.p20_I.tt_um_I.clock_inst.vga_inst.vga_y\[2\] 
+    bbox = ( 1156.55, 833.625 ) - ( 1156.6, 833.675 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:mux_I.p20_I.tt_um_I.clock_inst.vga_inst.vga_y\[0\] net:mux_I.p20_I.tt_um_I.clock_inst.vga_inst.vga_y\[2\] 
+    bbox = ( 1156.55, 833.59 ) - ( 1156.6, 833.675 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:mux_I.p20_I.tt_um_I.clock_inst.vga_inst.vga_y\[0\] 
+    bbox = ( 1156.9, 833.6 ) - ( 1156.92, 833.92 ) on Layer Metal3
+  violation type: Metal Spacing
+    srcs: net:_036687_ net:_036701_ 
+    bbox = ( 1281.23, 584.155 ) - ( 1281.39, 584.33 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_036687_ net:_036701_ 
+    bbox = ( 1281.22, 584.155 ) - ( 1281.23, 584.33 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_036687_ net:_036701_ 
+    bbox = ( 1281.23, 584.155 ) - ( 1281.4, 584.33 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_036687_ 
+    bbox = ( 1281.12, 584.53 ) - ( 1281.22, 584.54 ) on Layer Metal2
+  violation type: Metal Spacing
+    srcs: net:_036687_ 
+    bbox = ( 1281.12, 584.53 ) - ( 1281.39, 584.54 ) on Layer Metal2
