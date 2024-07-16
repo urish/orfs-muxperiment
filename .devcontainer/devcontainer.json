@@ -1,0 +1,11 @@
+{
+    "remoteEnv": {
+        "WORK_HOME": "${containerWorkspaceFolder}",
+        "DESIGN_HOME": "${containerWorkspaceFolder}/designs",
+        "DESIGN_CONFIG": "${containerWorkspaceFolder}/designs/ihp-sg13g2/tt-muxperiment/config.mk"
+    },
+    "build": {
+        // Path is relative to the devcontainer.json file.
+        "dockerfile": "Dockerfile"
+    }
+}
