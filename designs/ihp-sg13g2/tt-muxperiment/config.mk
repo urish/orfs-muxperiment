@@ -152,7 +152,6 @@ export SDC_FILE      = $(DESIGN_HOME)/$(PLATFORM)/$(DESIGN_NICKNAME)/constraint.
 #export FLOORPLAN_DEF = ./designs/$(PLATFORM)/$(DESIGN_NICKNAME)/floorplan.def
 #export PDN_TCL = ./designs/$(PLATFORM)/$(DESIGN_NICKNAME)/pdn.tcl
 
-export USE_FILL = 1
 export PLACE_DENSITY = 0.75
 export CORE_UTILIZATION = 60
 export TNS_END_PERCENT = 100
