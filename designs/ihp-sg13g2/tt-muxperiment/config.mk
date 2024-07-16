@@ -147,8 +147,9 @@ export VERILOG_FILES = $(DESIGN_HOME)/src/$(DESIGN_NICKNAME)/tt_top.v \
 
 export SDC_FILE      = $(DESIGN_HOME)/$(PLATFORM)/$(DESIGN_NICKNAME)/constraint.sdc
 
-export DIE_AREA = 0 0 2000 2000
-export CORE_AREA = 300 300 1700 1700
+export DIE_AREA = 0 0 2200 2200
+export CORE_AREA = 400 400 1800 1800
+export FOOTPRINT_TCL = $(DESIGN_HOME)/$(PLATFORM)/$(DESIGN_NICKNAME)/pad.tcl
 #export FLOORPLAN_DEF = ./designs/$(PLATFORM)/$(DESIGN_NICKNAME)/floorplan.def
 #export PDN_TCL = ./designs/$(PLATFORM)/$(DESIGN_NICKNAME)/pdn.tcl
 
@@ -158,3 +159,16 @@ export TNS_END_PERCENT = 100
 
 export SYNTH_MEMORY_MAX_BITS = 16384
 
+# Allow routing on the TopMetal layers, for the padring connections
+export MAX_ROUTING_LAYER = TopMetal2
+
+# Following exports should be part of platforms/ihp-sg13g2/config.mk and
+# might be obsolete in the future.
+export ADDITIONAL_LEFS = \
+	./platforms/$(PLATFORM)/lef/sg13g2_io.lef \
+	./platforms/$(PLATFORM)/lef/bondpad_70x70.lef
+export ADDITIONAL_GDS = \
+	./platforms/$(PLATFORM)/gds/sg13g2_io.gds \
+	./platforms/$(PLATFORM)/gds/bondpad_70x70.gds
+export ADDITIONAL_LIBS = \
+	./platforms/$(PLATFORM)/lib/sg13g2_io_dummy.lib
