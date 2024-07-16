@@ -43,10 +43,6 @@ jobs:
           path: 'orfs'
           ref: 'ihp-dev'
 
-      - name: clean build directories
-        run: |
-          rm -rf logs objects reports results
-
       - name: Run the flow
         working-directory: 'orfs/flow'
         env:
