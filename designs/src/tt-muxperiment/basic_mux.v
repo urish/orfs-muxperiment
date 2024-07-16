@@ -41,7 +41,7 @@ p03_wrapper p03_I (
     .iw(p03_iw),
     .ow(p03_ow)
 );
-
+/*
 wire p04_selected = (addr == 5'd04);
 wire [17:0] p04_iw = p04_selected ? iw : 18'b0;
 wire [23:0] p04_ow;
@@ -212,6 +212,7 @@ p22_wrapper p22_I (
     .iw(p22_iw),
     .ow(p22_ow)
 );
+*/
 
 always_comb begin
     case(addr)
@@ -219,6 +220,7 @@ always_comb begin
         5'd01: ow = p01_ow;
         5'd02: ow = p02_ow;
         5'd03: ow = p03_ow;
+/*
         5'd04: ow = p04_ow;
         5'd05: ow = p05_ow;
         5'd06: ow = p06_ow;
@@ -238,6 +240,7 @@ always_comb begin
         5'd20: ow = p20_ow;
         5'd21: ow = p21_ow;
         5'd22: ow = p22_ow;
+*/
         default: ow = 24'b0;
     endcase
 end

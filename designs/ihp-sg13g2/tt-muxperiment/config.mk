@@ -147,13 +147,13 @@ export VERILOG_FILES = $(DESIGN_HOME)/src/$(DESIGN_NICKNAME)/tt_top.v \
 
 export SDC_FILE      = $(DESIGN_HOME)/$(PLATFORM)/$(DESIGN_NICKNAME)/constraint.sdc
 
-#export DIE_AREA = 0 0 xxx.xx xxx.xx
-#export CORE_AREA = 2.88 1.44 xxx.xx xxx.xx
+export DIE_AREA = 0 0 2000 2000
+export CORE_AREA = 300 300 1700 1700
 #export FLOORPLAN_DEF = ./designs/$(PLATFORM)/$(DESIGN_NICKNAME)/floorplan.def
 #export PDN_TCL = ./designs/$(PLATFORM)/$(DESIGN_NICKNAME)/pdn.tcl
 
 export PLACE_DENSITY = 0.75
-export CORE_UTILIZATION = 60
+#export CORE_UTILIZATION = 60
 export TNS_END_PERCENT = 100
 
 export SYNTH_MEMORY_MAX_BITS = 16384
