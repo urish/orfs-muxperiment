@@ -5,7 +5,6 @@ module tt_top (
     inout [7:0] ui_in_PAD,
     inout [7:0] uo_out_PAD,
     inout [7:0] uio_PAD,
-    inout [7:0] uo_out_PAD,
     inout clk_PAD,
     inout rst_n_PAD
 );
