@@ -165,10 +165,10 @@ export MAX_ROUTING_LAYER = TopMetal2
 # Following exports should be part of platforms/ihp-sg13g2/config.mk and
 # might be obsolete in the future.
 export ADDITIONAL_LEFS = \
-	./platforms/$(PLATFORM)/lef/sg13g2_io.lef \
-	./platforms/$(PLATFORM)/lef/bondpad_70x70.lef
+	$(WORK_HOME)/pdk/ihp-sg13g2/libs.ref/sg13g2_io/lef/sg13g2_io.lef \
+	$(WORK_HOME)/bondpad/lef/bondpad_70x70.lef
 export ADDITIONAL_GDS = \
-	./platforms/$(PLATFORM)/gds/sg13g2_io.gds \
-	./platforms/$(PLATFORM)/gds/bondpad_70x70.gds
+	$(WORK_HOME)/pdk/ihp-sg13g2/libs.ref/sg13g2_io/gds/sg13g2_io.gds \
+	$(WORK_HOME)/bondpad/gds/bondpad_70x70.gds
 export ADDITIONAL_LIBS = \
-	./platforms/$(PLATFORM)/lib/sg13g2_io_dummy.lib
+	$(WORK_HOME)/pdk/ihp-sg13g2/libs.ref/sg13g2_io/liberty/sg13g2_io_dummy.lib
